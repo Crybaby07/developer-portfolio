@@ -8,15 +8,16 @@ h1{
 .headname{
     color: #00afb9;
 }
-.sec-a{
+section{
     display: flex;
+   margin-bottom: 110px; 
 }
 .heading{
     width: 50%;
     padding: 5%;
 }
 .heading img{
-    width: 100%;
+    width: 80%;
 }
 .button-hm{
     text-decoration: none;
@@ -30,5 +31,20 @@ h1{
 .sec-a{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.sec-b{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat ;
+    background-position: right;
+    
+}
+.button-dr{
+    text-decoration: none;
+    background-image: linear-gradient(-139deg,#00afb9, #90e0ef) ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
 }
 
