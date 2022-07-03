@@ -47,4 +47,19 @@ section{
     font-weight: 700;
     
 }
-
+.ex{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding:5px 60px;
+    border-radius: 7px;
+    border-left: solid 5px #00afb9;
+}
+.sec-c{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
